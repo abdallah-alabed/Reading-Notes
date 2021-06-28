@@ -24,4 +24,4 @@ to learn more about the growth mindset check the following links:
 
 
 ***Lastly i would like to introduce myself quickly:***
-`Hello everyone, my name is Abdallah and i'm super happy to be here. I have a bachelors degree in mechatronics engineering from the university of jordan and im here because i always like to take on new challenges and great a great career for myself.   here is my github account https://github.com/abdallah-alabed `
+`Hello everyone, my name is Abdallah and i'm super happy to be here. I have a bachelors degree in mechatronics engineering from the university of jordan and im here because i always like to take on new challenges and great a great career for myself.` here is  [my github](https://github.com/abdallah-alabed)

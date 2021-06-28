@@ -8,8 +8,10 @@ the mark down have two extensions `.md` or `.markdown`
 ### the common symbols that are used in markdown are:
 - `* *` star quotation to make the words in Italic
        *(Italic)*
+       
 - `** **` double star quotation to make the words in Bold
         **(Bold)**
+        
 - `#` hashtag represent the header (more hastags makes a smaller header)
 
 - `-` single hyphen for unordered list
@@ -18,6 +20,7 @@ the mark down have two extensions `.md` or `.markdown`
 
 - `[]()` square braket+round brackets for adding links
          (  [MASTERING MARKDOWN](https://guides.github.com/features/mastering-markdown/) )
+         
 - `![]()` explination mark+square braket+round brackets for adding images
           ![Mastering markdown](https://image.slidesharecdn.com/the-power-of-markdown-170323103313/95/the-power-of-markdown-1-638.jpg?cb=1510671543)    
 

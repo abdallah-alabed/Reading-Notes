@@ -8,3 +8,4 @@ my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatr
 |-----|-----|
 |Growth Mindset | [The Read Link](https://replit.com/@abdalabed/Reading-Notes#Growth.md)|
 |Read 01 | [The Read Link](https://replit.com/@abdalabed/Reading-Notes#Read01.md)|
+|Git Read (Read02)|[The Read Link](https://replit.com/@abdalabed/Reading-Notes#GitRead.md)|

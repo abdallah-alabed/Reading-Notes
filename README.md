@@ -9,3 +9,4 @@ my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatr
 |Growth Mindset | [The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Growth)|
 |Read 01 | [The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read01)|
 |Git Read (Read02)|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/GitRead)|
+|Read03|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read03)|

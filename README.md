@@ -10,3 +10,7 @@ my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatr
 |Read 01 | [The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read01)|
 |Git Read (Read02)|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/GitRead)|
 |Read03|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read03)|
+|Read04|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read04)|
+|Read05|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read05)|
+|Read06|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read06)|
+|Read07|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read07)|

@@ -1,7 +1,15 @@
 # Introduction
+
+
 Hello everyone, my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatronics engineering*, i joined this course so i can become a full-stack developer and hopefully combine the knowlege in both of the fields so i can join the AI field.
+
+
  ## ***Table of Content***
+
+
   ### ***Code 102 Reading Notes*** 
+
+
   |Read name | Read Link| 
   |-----|-----| 
   |Growth Mindset | [The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Growth)|
@@ -14,6 +22,8 @@ Hello everyone, my name is *Abdallah Alabed* i am *23* and i have a bachelors de
   |Read07|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read07)|
       
 ### ***Code 201 Reading Notes*** 
+
+
 |Read name | Read Link|
 | ----- | ----- |
 |Read day 1 |[The Read Link]()|

@@ -14,6 +14,7 @@ my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatr
 |Read04|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read04)|
 |Read05|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read05)|
 |Read06|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read06)|
+<<<<<<< HEAD
 |Read07|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read07)|
 
 
@@ -39,3 +40,6 @@ my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatr
 |Read day 15|-----|
 
 
+=======
+|Read07|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read07)|
+>>>>>>> 444f86d55e3e71a2cc7ef9a70389b9f9d05d914b

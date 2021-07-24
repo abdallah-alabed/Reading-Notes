@@ -68,7 +68,7 @@ an attriburte will give us extra information about the element's content.
 - The <meta> tag allows you to supply all kinds of information about your web page. 
 > (doesnt appear for the user).
 
-## HTML5 layout
+### HTML5 layout
 1. Header and footer
 2. Navigation
 3. Articles
@@ -105,5 +105,26 @@ when we start designing our webpage we need to pay attention for:
 
 
 
- ## what is Javascript?
+ ## What is Javascript?
+ makes the pages more interactive! by modifing content, create rules to control the output and react to events done by the user.
  
+ ### Steps to follow when writing a javascript script
+ 1. define what you want to achieve.
+ 2. divide into tasks 
+ 3. Code one-by-one
+> ex: ![flowchart](https://jquery-plugins.net/image/plugin/flowchartjs-svg-flow-chart-diagrams-with-javascript.png)
+
+### How does a browser see a webpage?
+1. RECEIVE A PAGE (each page is a different document written in HTML)
+2. CREATE A MODEL OF THE PAGE 
+3. USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN (links CSS and JS to HTML in the code so everything appears and works as designed).
+
+> models are objects represents physical things, where the objects can have a properties to tell us about the object itself, methods to perform tasks trigger events depend on user inputs. 
+
+
+### Connecting JS and CSS to HTML externally
+after creating the files for our css and js codes we link them using the following two tags respectively:
+
+link rel="stylesheet" href="style.css">
+
+script src="pop.js"> /script>

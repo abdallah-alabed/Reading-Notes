@@ -1,13 +1,13 @@
 # Introduction
 
 
-Hello everyone, my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatronics engineering*, i joined this course so i can become a full-stack developer and hopefully combine the knowlege in both of the fields so i can join the AI field.
+ Hello everyone, my name is *Abdallah Alabed* i am *23* and i have a bachelors degree in *mechatronics engineering*, i joined this course so i can become a full-stack developer and hopefully combine the knowlege in both of the fields so i can join the AI field.
 
 
- ## ***Table of Content***
+##***Table of Content***
 
 
-  ### ***Code 102 Reading Notes*** 
+### ***Code 102 Reading Notes*** 
 
 
   |Read name | Read Link| 
@@ -24,20 +24,20 @@ Hello everyone, my name is *Abdallah Alabed* i am *23* and i have a bachelors de
 ### ***Code 201 Reading Notes*** 
 
 
-|Read name | Read Link|
-| ----- | ----- |
-|Read day 1 |[The Read Link]()|
-|Read day 2 |[The Read Link]()|
-|Read day 3 |[The Read Link]()|
-|Read day 4 |[The Read Link]()|
-|Read day 5 |[The Read Link]()|
-|Read day 6 |[The Read Link]()|
-|Read day 7 |[The Read Link]()| 
-|Read day 8 |[The Read Link]()|
-|Read day 9 |[The Read Link]()|
-|Read day 10|[The Read Link]()|
-|Read day 11|[The Read Link]()| 
-|Read day 12|[The Read Link]()| 
-|Read day 13|[The Read Link]()| 
-|Read day 14|[The Read Link]()| 
-|Read day 15|[The Read Link]()|
+ |Read name | Read Link|
+ | ----- | ----- |
+ |Read day 1 |[The Read Link]()|
+ |Read day 2 |[The Read Link]()|
+ |Read day 3 |[The Read Link]()|
+ |Read day 4 |[The Read Link]()|
+ |Read day 5 |[The Read Link]()|
+ |Read day 6 |[The Read Link]()|
+ |Read day 7 |[The Read Link]()| 
+ |Read day 8 |[The Read Link]()|
+ |Read day 9 |[The Read Link]()|
+ |Read day 10|[The Read Link]()|
+ |Read day 11|[The Read Link]()| 
+ |Read day 12|[The Read Link]()| 
+ |Read day 13|[The Read Link]()| 
+ |Read day 14|[The Read Link]()| 
+ |Read day 15|[The Read Link]()|

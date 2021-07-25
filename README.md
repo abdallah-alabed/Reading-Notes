@@ -27,7 +27,7 @@
  |Read name | Read Link|
  | ----- | ----- |
  |Read day 1 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class-01)|
- |Read day 2 |[The Read Link]()|
+ |Read day 2 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class-02)|
  |Read day 3 |[The Read Link]()|
  |Read day 4 |[The Read Link]()|
  |Read day 5 |[The Read Link]()|

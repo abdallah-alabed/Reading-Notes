@@ -31,7 +31,7 @@
  |Read day 3 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class-03)|
  |Read day 4 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class-04)|
  |Read day 5 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class-05)|
- |Read day 6 |[The Read Link]()|
+ |Read day 6 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class-06)|
  |Read day 7 |[The Read Link]()| 
  |Read day 8 |[The Read Link]()|
  |Read day 9 |[The Read Link]()|

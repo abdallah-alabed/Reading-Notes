@@ -7,7 +7,7 @@
 ## ***Table of Content***
 
 
-### ***Code 102 Reading Notes*** 
+### ***Code 102 - Intro to Software Development*** 
 
 
   |Read name | Read Link| 
@@ -21,7 +21,7 @@
   |Read06|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read06)| 
   |Read07|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read07)|
       
-### ***Code 201 Reading Notes*** 
+### ***Code 201 - Foundations of Software Development*** 
 
 
  |Read name | Read Link|

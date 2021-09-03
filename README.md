@@ -21,6 +21,7 @@
   |Read06|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read06)| 
   |Read07|[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/Read07)|
       
+      
 ### ***Code 201 - Foundations of Software Development*** 
 
 
@@ -45,3 +46,7 @@
  
 ### ***Code 301 - Intermediate Software Development*** 
 
+
+ |Read name | Read Link|
+ | ----- | ----- |
+ |Read day 1 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/read01-301)|

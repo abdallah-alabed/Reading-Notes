@@ -52,4 +52,5 @@
  |Read day 1 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class01-301)|
  |Read day 2 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class02-301)|
  |Read day 3 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class03-301)|
+ |Read day 4 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class04-301)|
  

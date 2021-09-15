@@ -58,5 +58,7 @@
  |Read day 7 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class07-301)|
  |Read day 8 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class08-301)|
  |Read day 9 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class09-301)|
+ |Read day 10 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class10-301)|
+ 
  
  

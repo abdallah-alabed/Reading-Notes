@@ -61,6 +61,7 @@
  |Read day 10 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class10-301)|
  |Read day 11 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class11-301)|
  |Read day 12 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class12-301)|
+ |Read day 13 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class13-301)|
  
  
  

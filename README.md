@@ -72,3 +72,5 @@
  |Read name | Read Link|
  | ----- | ----- |
  |Read day 1 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class1-401-py)|
+ |Read day 2 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class2-401-py)|
+ 

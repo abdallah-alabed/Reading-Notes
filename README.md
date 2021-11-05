@@ -76,6 +76,7 @@
  |Read day 3 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class3-401-py)|
  |Read day 4 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class4-401-py)|
  |Read day 5 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class5-401-py)|
+ |Read day 6 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class6-401-py)|
  
  
  

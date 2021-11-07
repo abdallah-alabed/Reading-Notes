@@ -44,7 +44,14 @@ Whenever you assign a value to a name in Python, one of two things can happen:
 - nonlocal
 
 
+## Big O Notation
 
+- O(1) - Constant running time
+- O(logn) - Logarithmec running time
+- O(n) - Linear running time
+- O(n logn) - Log-Linear running time
+- O(nk) - Polynomial running time
+- O(cn) - Exponential running time
 
 
 

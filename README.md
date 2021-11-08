@@ -78,6 +78,8 @@
  |Read day 5 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class5-401-py)|
  |Read day 6 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class6-401-py)|
  |Read day 7 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class7-401-py)|
+ |Read day 8 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class8-401-py)|
+ 
  
  
  

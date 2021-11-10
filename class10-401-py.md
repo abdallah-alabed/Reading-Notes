@@ -42,4 +42,4 @@ This means that the last item in the queue will be the last item out of the queu
 
 
 
-[basics]("https://pynote.readthedocs.io/en/latest/_images/stack_queue.png")
+![basics]("https://pynote.readthedocs.io/en/latest/_images/stack_queue.png")

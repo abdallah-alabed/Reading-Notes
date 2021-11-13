@@ -81,6 +81,7 @@
  |Read day 8 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class8-401-py)|
  |Read day 9 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class9-401-py)|
  |Read day 10 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class10-401-py)|
+ |Read day 11 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class11-401-py)|
  
  
  

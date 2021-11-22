@@ -89,11 +89,12 @@
  |Read day 16 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class16-401-py)|
  |Read day 17 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class17-401-py)|
  |Read day 18 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class18-401-py)|
+ |Read day 18 (Extra) |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class18-401-py(optional Read))|
  
  
  
  
- 
+
  
  
  

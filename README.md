@@ -93,14 +93,6 @@
  |Read day 26 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class26-401-py)|
  |Read day 27 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class27-401-py)|
  |Read day 28 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class28-401-py)|
- 
- 
- 
- 
- 
-
- 
- 
- 
+ |Read day 29 |[The Read Link](https://abdallah-alabed.github.io/Reading-Notes/class29-401-py)|
  
  

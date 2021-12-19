@@ -77,4 +77,4 @@ easily solved by extracting components, EX:
 3. npm run dev
 4. to use links: import Link from 'next/link'
 5. css: <style jsx>{`  …  `}</style>
-6. 
+

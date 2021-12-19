@@ -46,3 +46,35 @@
 </button> `
   - ` <button onClick={(e) => this.deleteRow(id, e)}>Delete Row</button>`
   - `<button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>`
+
+# Tail Wind CSS
+Using utility classes to build custom designs without writing CSS \
+ex: ` <img class="h-12 w-12" src="/img/logo.svg" alt="ChitChat Logo">`
+
+#### commands
+1. padding : p
+2. Flexbox: flex
+3. max-width: max-w-sm
+4. margin utilities: mx-auto
+5. background color: bg-white
+6. border radius: rounded-xl
+7. box-shadow: shadow-lg
+8. width and height: w and h
+9. space-between: space-x-4
+10. font size, text color, and font-weight: text-xl, text-black, font-medium 
+
+#### Maintainability concerns
+easily solved by extracting components, EX:
+
+`<button class="btn">  Button </button>
+  <style>  .btn {    @apply py-2 px-4 font-semibold rounded-lg shadow-lg;  } </style>`
+  
+# Next.js
+> Next.js: The React Framework
+
+1. Create a Next.js app: npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+2. Run the development server: cd nextjs-blog
+3. npm run dev
+4. to use links: import Link from 'next/link'
+5. css: <style jsx>{`  …  `}</style>
+6. 
